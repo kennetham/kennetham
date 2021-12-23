@@ -7,18 +7,18 @@
 </p>
 
 ```typescript
-const kenham = {
+const kennetham = {
   pronouns: "he" | "him",
   company: "Handshakes by DC Frontiers" | "ScoutAsia by Nikkei x Financial Times" | "treatsure",
-  code: ["C#", "Java", "Javascript", "Python", "Ruby", "Rust", "Scala", "Typescript"],
+  code: ["C#", "C++", "Java", "Javascript", "Python", "Ruby", "Rust", "Scala", "Typescript"],
   technologies: {
-    cloud: ["AWS", "Azure", "Google", "OpenStack"]
+    cloud: ["AWS", "Azure", "Google", "OpenStack"],
     devops: ["Docker", "Kubernetes"]
   },
   architecture: ["Microservices", "Serverless", "Event-driven", "Distributed Systems", "Design Patterns"],
   techCommunities: {
     speaker: "Microsoft MVP",
-    mentor: "GenerationSG"
+    mentor: "GenerationSG", "Others"
   },
   challenge: "I am doing the #100DaysOfRust to build a client-server application on rust."  
 };
@@ -37,7 +37,7 @@ impl Profile {
   fn new() -> Profile {
     Profile {
       pronouns: "he | him".to_string(),
-      code: ["C#".to_string(), "Java".to_string(), "Javascript".to_string(), "Python".to_string(), "Ruby".to_string(), "Rust".to_string(), "Scala".to_string(), "Typescript".to_string()],
+      code: ["C#".to_string(), "C++".to_string(), "Java".to_string(), "Javascript".to_string(), "Python".to_string(), "Ruby".to_string(), "Rust".to_string(), "Scala".to_string(), "Typescript".to_string()],
       name: "Kenneth Ham".to_string(),
       role: "CTO".to_string(),
       language: ["en_SG".to_string(), "zh_CN".to_string(), "ja_JP".to_string(), "ru_RU".to_string()]
