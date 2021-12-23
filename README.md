@@ -15,7 +15,7 @@ const kenham = {
     cloud: ["AWS", "Azure", "Google", "OpenStack"]
     devops: ["Docker", "Kubernetes"]
   },
-  architecture: ["Microservices", "Event-driven", "Serverless", "Design Patterns"],
+  architecture: ["Microservices", "Serverless", "Event-driven", "Distributed Systems", "Design Patterns"],
   techCommunities: {
     speaker: "Microsoft MVP",
     mentor: "GenerationSG"
