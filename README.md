@@ -1,5 +1,5 @@
 <h3 align="center">
-  Hello folks 👋  Welcome to Kenneth's Profile!
+  Hello folks 👋  I'm Kenneth Ham!
 </h3>
 
 <p align="center">
@@ -9,6 +9,7 @@
 ```typescript
 const kenham = {
   pronouns: "he" | "him",
+  company: "Handshakes by DC Frontiers" | "ScoutAsia by Nikkei x Financial Times" | "treatsure",
   code: ["C#", "Java", "Javascript", "Python", "Ruby", "Rust", "Scala", "Typescript"],
   technologies: {
     cloud: ["AWS", "Azure", "Google", "OpenStack"]
@@ -19,7 +20,7 @@ const kenham = {
     speaker: "Microsoft MVP",
     mentor: "GenerationSG"
   },
-  challenge: "I am building an application on rust."  
+  challenge: "I am doing the #100DaysOfRust to build a client-server application on rust."  
 };
 ```
 
