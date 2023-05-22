@@ -9,7 +9,7 @@
 ```typescript
 const kennetham = {
   pronouns: "he" | "him",
-  company: "Handshakes by DC Frontiers" | "ScoutAsia by Nikkei x Financial Times" | "treatsure",
+  company: "Eksklushift" | "treatsure",
   code: ["C#", "C++", "Java", "Javascript", "Python", "Ruby", "Rust", "Scala", "Typescript"],
   technologies: {
     cloud: ["AWS", "Azure", "Google", "OpenStack"],
